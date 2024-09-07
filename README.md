@@ -1,11 +1,11 @@
 <h1>Hi, I'm Gaetano! <br/><a href="https://www.linkedin.com/in/gaetanolehn/">Cybersecurity Professional</a></h1>
 
-- 🔭 I’m currently working on: Cybersecurity Project
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on: Homelab Project
+- 🌱 I’m currently learning: Active Directory and Scripting
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Pending...</b>
+- <b>Homelab (Pending...)</b>
   - ...
 
 <h2>📺 Instruction Videos</h2>
