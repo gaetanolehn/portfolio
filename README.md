@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gaetano! <br/><a href="https://www.linkedin.com/in/gaetanolehn/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Gaetano! <br/><a href="https://www.linkedin.com/in/gaetanolehn/">IT Systems and Security Specialist</a></h1>
 
 - 🔭 I’m currently working on: Homelab Project
 - 🌱 I’m currently learning: Active Directory and Scripting
